@@ -1,2 +1,2 @@
-made a new change to the file1
+made a new change to the file2
 added another line
