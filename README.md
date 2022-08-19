@@ -1,4 +1,4 @@
-![](http://i.imgur.com/NcsRW1q.png)
+![](http://i.imgur.com/NcsRW1q3.png)
 
 **[PLAY IT HERE (http://ncase.me/polygons)](http://ncase.me/polygons)**
 
